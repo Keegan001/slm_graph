@@ -32,9 +32,8 @@ SLM-Graph is a lightweight, production-grade Python library that transforms natu
 
     **To use the library, you need to download a Small Language Model in GGUF format.**
 
-    Recommended Models:
-    * Bartowski/Llama-3.2-1B-Instruct-GGUF (Recommended: Q4_K_M or Q6_K versions)
-    * Unsloth/Llama-3.2-1B-Instruct-GGUF
+    Recommended Model:
+    * [Llama-3.2-3B-Instruct-GGUF](https://huggingface.co/hugging-quants/Llama-3.2-3B-Instruct-Q4_K_M-GGUF/resolve/main/llama-3.2-3b-instruct-q4_k_m.gguf?download=true)
 
 ## Setup Instructions:
 

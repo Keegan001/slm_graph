@@ -1,8 +1,8 @@
 [tool.poetry]
 name = "slm-graph"
-version = "0.1.0"
+version = "0.1.1"
 description = "Self-contained natural language to Mermaid graph generator using SLMs."
-authors = ["Your Name <your.email@example.com>"]
+authors = ["Keegan001"]
 readme = "README.md"
 packages = [{include = "slm_graph"}]
 license = "MIT"
